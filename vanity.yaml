@@ -1,8 +1,37 @@
-host: rakyll.pizza
+host: kubedb.dev
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
-
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /apimachinery:
+    repo: https://github.com/kubedb/apimachinery
+  /cli:
+    repo: https://github.com/kubedb/cli
+  /docs:
+    repo: https://github.com/kubedb/docs
+  /elasticsearch:
+    repo: https://github.com/kubedb/elasticsearch
+  /etcd:
+    repo: https://github.com/kubedb/etcd
+  /installer:
+    repo: https://github.com/kubedb/installer
+  /mariadb:
+    repo: https://github.com/kubedb/mariadb
+  /memcached:
+    repo: https://github.com/kubedb/memcached
+  /mongodb:
+    repo: https://github.com/kubedb/mongodb
+  /mysql:
+    repo: https://github.com/kubedb/mysql
+  /operator:
+    repo: https://github.com/kubedb/operator
+  /percona-xtradb:
+    repo: https://github.com/kubedb/percona-xtradb
+  /pgbouncer:
+    repo: https://github.com/kubedb/pgbouncer
+  /postgres:
+    repo: https://github.com/kubedb/postgres
+  /proxysql:
+    repo: https://github.com/kubedb/proxysql
+  /redis:
+    repo: https://github.com/kubedb/redis
+  /timescale:
+    repo: https://github.com/kubedb/timescale
