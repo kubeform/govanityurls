@@ -27,6 +27,8 @@ paths:
     repo: https://github.com/kubedb/percona-xtradb
   /pgbouncer:
     repo: https://github.com/kubedb/pgbouncer
+  /pgbouncer_exporter:
+    repo: https://github.com/kubedb/pgbouncer_exporter
   /postgres:
     repo: https://github.com/kubedb/postgres
   /proxysql:
