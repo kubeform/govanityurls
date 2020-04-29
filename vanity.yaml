@@ -35,6 +35,10 @@ paths:
     repo: https://github.com/kubedb/pgbouncer_exporter
   /postgres:
     repo: https://github.com/kubedb/postgres
+  /profile-charts:
+    repo: https://github.com/kubedb/profile-charts
+  /profile-kustomizer:
+    repo: https://github.com/kubedb/profile-kustomizer
   /proxysql:
     repo: https://github.com/kubedb/proxysql
   /redis:
