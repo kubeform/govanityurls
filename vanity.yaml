@@ -3,6 +3,8 @@ host: kubedb.dev
 paths:
   /apimachinery:
     repo: https://github.com/kubedb/apimachinery
+  /autoscaler:
+    repo: https://github.com/kubedb/autoscaler
   /cli:
     repo: https://github.com/kubedb/cli
   /docs:
@@ -33,8 +35,6 @@ paths:
     repo: https://github.com/kubedb/pgbouncer
   /pgbouncer_exporter:
     repo: https://github.com/kubedb/pgbouncer_exporter
-  /podautoscaler:
-    repo: https://github.com/kubedb/podautoscaler
   /postgres:
     repo: https://github.com/kubedb/postgres
   /profile-charts:
