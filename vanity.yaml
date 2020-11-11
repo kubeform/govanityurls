@@ -23,8 +23,6 @@ paths:
     repo: https://github.com/kubedb/mongodb
   /mysql:
     repo: https://github.com/kubedb/mysql
-  /mysql-replication-mode-detector:
-    repo: https://github.com/kubedb/mysql-replication-mode-detector
   /operator:
     repo: https://github.com/kubedb/operator
   /percona-xtradb:
@@ -45,6 +43,8 @@ paths:
     repo: https://github.com/kubedb/proxysql
   /redis:
     repo: https://github.com/kubedb/redis
+  /replication-mode-detector:
+    repo: https://github.com/kubedb/replication-mode-detector
   /tests:
     repo: https://github.com/kubedb/tests
   /timescale:
