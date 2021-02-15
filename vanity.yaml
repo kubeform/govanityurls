@@ -29,6 +29,8 @@ paths:
     repo: https://github.com/kubedb/operator
   /percona-xtradb:
     repo: https://github.com/kubedb/percona-xtradb
+  /pg-coordinator:
+    repo: https://github.com/kubedb/pg-coordinator
   /pg-leader-election:
     repo: https://github.com/kubedb/pg-leader-election
   /pgbouncer:
