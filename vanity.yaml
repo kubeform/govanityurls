@@ -8,26 +8,26 @@ paths:
   /kubeform:
     repo: https://github.com/kubeform/kubeform
   /apimachinery:
-    repo: github.com/kubeform/apimachinery
+    repo: https://github.com/kubeform/apimachinery
   /generator:
-    repo: github.com/kubeform/generator
+    repo: https://github.com/kubeform/generator
   /provider-aws-api:
-    repo: github.com/kubeform/provider-aws-api
+    repo: https://github.com/kubeform/provider-aws-api
   /provider-aws-controller:
-    repo: github.com/kubeform/provider-aws-controller
+    repo: https://github.com/kubeform/provider-aws-controller
   /provider-azurerm-api:
-    repo: github.com/kubeform/provider-azurerm-api
+    repo: https://github.com/kubeform/provider-azurerm-api
   /provider-azurerm-controller:
-    repo: github.com/kubeform/provider-azurerm-controller
+    repo: https://github.com/kubeform/provider-azurerm-controller
   /provider-digitalocean-api:
-    repo: github.com/kubeform/provider-digitalocean-api
+    repo: https://github.com/kubeform/provider-digitalocean-api
   /provider-digitalocean-controller:
-    repo: github.com/kubeform/provider-digitalocean-controller
+    repo: https://github.com/kubeform/provider-digitalocean-controller
   /provider-google-api:
-    repo: github.com/kubeform/provider-google-api
+    repo: https://github.com/kubeform/provider-google-api
   /provider-google-controller:
-    repo: github.com/kubeform/provider-google-controller
+    repo: https://github.com/kubeform/provider-google-controller
   /provider-linode-api:
-    repo: github.com/kubeform/provider-linode-api
+    repo: https://github.com/kubeform/provider-linode-api
   /provider-linode-controller:
-    repo: github.com/kubeform/provider-linode-controller
+    repo: https://github.com/kubeform/provider-linode-controller
