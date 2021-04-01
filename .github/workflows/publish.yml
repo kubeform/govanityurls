@@ -28,4 +28,4 @@ jobs:
           gcloud auth activate-service-account --key-file=$HOME/gcp.json
 
       - name: Deploy
-        run: gcloud app deploy --project kubedb-dev
+        run: gcloud app deploy --project kubeform-dev

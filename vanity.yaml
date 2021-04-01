@@ -1,55 +1,33 @@
-host: kubedb.dev
+host: kubeform.dev
 
 paths:
-  /apimachinery:
-    repo: https://github.com/kubedb/apimachinery
-  /autoscaler:
-    repo: https://github.com/kubedb/autoscaler
-  /cli:
-    repo: https://github.com/kubedb/cli
-  /docs:
-    repo: https://github.com/kubedb/docs
-  /elasticsearch:
-    repo: https://github.com/kubedb/elasticsearch
-  /etcd:
-    repo: https://github.com/kubedb/etcd
   /installer:
-    repo: https://github.com/kubedb/installer
-  /mariadb:
-    repo: https://github.com/kubedb/mariadb
-  /memcached:
-    repo: https://github.com/kubedb/memcached
-  /mongodb:
-    repo: https://github.com/kubedb/mongodb
-  /mysql:
-    repo: https://github.com/kubedb/mysql
-  /mysql-replication-mode-detector:
-    repo: https://github.com/appscode/mysql-replication-mode-detector
-  /operator:
-    repo: https://github.com/kubedb/operator
-  /percona-xtradb:
-    repo: https://github.com/kubedb/percona-xtradb
-  /pg-coordinator:
-    repo: https://github.com/kubedb/pg-coordinator
-  /pg-leader-election:
-    repo: https://github.com/kubedb/pg-leader-election
-  /pgbouncer:
-    repo: https://github.com/kubedb/pgbouncer
-  /pgbouncer_exporter:
-    repo: https://github.com/kubedb/pgbouncer_exporter
-  /postgres:
-    repo: https://github.com/kubedb/postgres
-  /profile-charts:
-    repo: https://github.com/kubedb/profile-charts
-  /profile-kustomizer:
-    repo: https://github.com/kubedb/profile-kustomizer
-  /proxysql:
-    repo: https://github.com/kubedb/proxysql
-  /redis:
-    repo: https://github.com/kubedb/redis
-  /replication-mode-detector:
-    repo: https://github.com/kubedb/replication-mode-detector
-  /tests:
-    repo: https://github.com/kubedb/tests
-  /timescale:
-    repo: https://github.com/kubedb/timescale
+    repo: https://github.com/kubeform/installer
+  /kfc:
+    repo: https://github.com/kubeform/kfc
+  /kubeform:
+    repo: https://github.com/kubeform/kubeform
+  /apimachinery:
+    repo: github.com/kubeform/apimachinery
+  /generator:
+    repo: github.com/kubeform/generator
+  /provider-aws-api:
+    repo: github.com/kubeform/provider-aws-api
+  /provider-aws-controller:
+    repo: github.com/kubeform/provider-aws-controller
+  /provider-azurerm-api:
+    repo: github.com/kubeform/provider-azurerm-api
+  /provider-azurerm-controller:
+    repo: github.com/kubeform/provider-azurerm-controller
+  /provider-digitalocean-api:
+    repo: github.com/kubeform/provider-digitalocean-api
+  /provider-digitalocean-controller:
+    repo: github.com/kubeform/provider-digitalocean-controller
+  /provider-google-api:
+    repo: github.com/kubeform/provider-google-api
+  /provider-google-controller:
+    repo: github.com/kubeform/provider-google-controller
+  /provider-linode-api:
+    repo: github.com/kubeform/provider-linode-api
+  /provider-linode-controller:
+    repo: github.com/kubeform/provider-linode-controller
