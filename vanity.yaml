@@ -11,6 +11,8 @@ paths:
     repo: https://github.com/kubeform/generator-v1
   /generator-v2:
     repo: https://github.com/kubeform/generator-v2
+  /apimachinery:
+    repo: https://github.com/kubeform/apimachinery
   /provider-aws-api:
     repo: https://github.com/kubeform/provider-aws-api
   /provider-aws-controller:
