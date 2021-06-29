@@ -3,6 +3,8 @@ host: kubeform.dev
 paths:
   /kubeform:
     repo: https://github.com/kubeform/kubeform
+  /CHANGELOG:
+    repo: https://github.com/kubeform/CHANGELOG
   /installer:
     repo: https://github.com/kubeform/installer
   /generator-v1:
@@ -15,37 +17,27 @@ paths:
     repo: https://github.com/kubeform/provider-aws-controller
   /provider-aws-gen:
     repo: https://github.com/kubeform/provider-aws-gen
-  /provider-aws-CHANGELOG:
-    repo: https://github.com/kubeform/provider-aws-CHANGELOG
   /provider-azurerm-api:
     repo: https://github.com/kubeform/provider-azurerm-api
   /provider-azurerm-controller:
     repo: https://github.com/kubeform/provider-azurerm-controller
   /provider-azurerm-gen:
     repo: https://github.com/kubeform/provider-azurerm-gen
-  /provider-azurerm-CHANGELOG:
-    repo: https://github.com/kubeform/provider-azurerm-CHANGELOG
   /provider-digitalocean-api:
     repo: https://github.com/kubeform/provider-digitalocean-api
   /provider-digitalocean-controller:
     repo: https://github.com/kubeform/provider-digitalocean-controller
   /provider-digitalocean-gen:
     repo: https://github.com/kubeform/provider-digitalocean-gen
-  /provider-digitalocean-CHANGELOG:
-    repo: https://github.com/kubeform/provider-digitalocean-CHANGELOG
   /provider-google-api:
     repo: https://github.com/kubeform/provider-google-api
   /provider-google-controller:
     repo: https://github.com/kubeform/provider-google-controller
   /provider-google-gen:
     repo: https://github.com/kubeform/provider-google-gen
-  /provider-google-CHANGELOG:
-    repo: https://github.com/kubeform/provider-google-CHANGELOG
   /provider-linode-api:
     repo: https://github.com/kubeform/provider-linode-api
   /provider-linode-controller:
     repo: https://github.com/kubeform/provider-linode-controller
   /provider-linode-gen:
     repo: https://github.com/kubeform/provider-linode-gen
-  /provider-linode-CHANGELOG:
-    repo: https://github.com/kubeform/provider-linode-CHANGELOG
