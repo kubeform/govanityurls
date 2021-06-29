@@ -5,10 +5,10 @@ paths:
     repo: https://github.com/kubeform/kubeform
   /installer:
     repo: https://github.com/kubeform/installer
-  /generator:
-    repo: https://github.com/kubeform/generator
   /generator-v1:
     repo: https://github.com/kubeform/generator-v1
+  /generator-v2:
+    repo: https://github.com/kubeform/generator-v2
   /provider-aws-api:
     repo: https://github.com/kubeform/provider-aws-api
   /provider-aws-controller:
